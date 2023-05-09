@@ -70,6 +70,17 @@ content:
           - 포스팅 기능을 맡아서 개발 (포스트 정렬 및 조회, 세부사항 확인)
           - UML 다이어그램 작성, 순서도 작성과 같은 설계단계부터 프로젝트를 진행
           - UI는 크몽이라는 사이트를 클론 코딩해서 사용
+          
+      - layout: left
+        title: BodeumMe <br/> (팀 프로젝트)
+        sub_title: |
+          사용 기술 : <br/>
+          Spring boot, Oracle, Mybatis, Thymeleaf, HTML5/CSS3, JavaScript, Junit5, Gradle
+        description: | # this will include new lines to allow paragraphs
+          - 프로젝트 후 수정 중...
+          - 포스팅 기능을 맡아서 개발 (포스트 정렬 및 조회, 세부사항 확인)
+          - UML 다이어그램 작성, 순서도 작성과 같은 설계단계부터 프로젝트를 진행
+          - UI는 크몽이라는 사이트를 클론 코딩해서 사용
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
