@@ -57,9 +57,8 @@ about_content: |
   이러한 커뮤니케이션과 지식 공유를 통해 팀의 역량을 키우고 성공적인 프로젝트를 완수하는 것이 제 목표입니다.
 
 content:
-  - title: Skill # Title for the section
+  - title: Skill # Title for the section  
     layout: list # Type of content section (list/text)
-   layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: BodeumMe <br/> (팀 프로젝트)
