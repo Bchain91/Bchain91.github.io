@@ -136,8 +136,16 @@ content:
         sub_title: 자율형 IOT기반 Reality AI융합 전문가 [일반인]
         caption: 22.12.20 - 23.07.10       
         description: | # this will include new lines to allow paragraphs
-            - 저는 MCU에 대해 자세하게 배우고 다양한 센서를 C, C++, Python 등의 프로그래밍 언어로 제어하며 통제하는 방법을 습득하였습니다. 이를 기반으로 공모전이나 팀 프로젝트를 진행하여 결과물을 도출하면서 실력을 쌓았습니다.
+            - 저를 임베디드 개발자로서 만들어준 곳 이며, MCU에 대해 자세하게 배우고 다양한 센서를 C, C++, Python 등의 프로그래밍 언어로 제어하며 통제하는 방법을 습득하였습니다. 이를 기반으로 공모전이나 팀 프로젝트를 진행하여 결과물을 도출하면서 실력을 쌓았습니다.
             이러한 경험은 저에게 프로그래밍 분야에서 더욱 깊은 이해와 창의성을 키울 수 있는 기반이 되었습니다.
+            
+      - layout: left
+        title: 게임콘텐츠(MAYA) 개발 및 취업과정
+        sub_title: 그린컴퓨터아카데미
+        caption: 17.08.23 - 18.03.29       
+        description: | # this will include new lines to allow paragraphs
+            - 
+영상편집과 3D 그래픽 툴을 사용하여 영상 개념을 습득하였고, 이러한 경험은 임베디드 IoT와는 직접적으로 관련이 없지만, OpenCV 사용 시에도 큰 도움이 되었습니다. 이를 통해 영상 처리에 대한 이해도가 높아져, 더욱 효율적인 코드 작성과 문제 해결에 이바지할 수 있었습니다.
             
       - layout: left
         title: 청강문화산업대
