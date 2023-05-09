@@ -108,24 +108,22 @@ content:
 
       - layout: left
         title: 리눅스마스터 2급       
-        sub_title: Senior Network System Administrator
-        caption: 22.12.21 - 23.07.10       
+        sub_title: 한국정보통신진흥협회      
         description: | # this will include new lines to allow paragraphs
-            - 2016.07.15 취득
+            - 2023.03.31 취득
             
       - layout: left
         title: 운전면허증 1종 보통       
-        sub_title: Senior Network System Administrator
-        caption: 22.12.21 - 23.07.10       
+        sub_title: 서울지방경찰청
         description: | # this will include new lines to allow paragraphs
-            - 2016.07.15 취득
+            - 2018.09.17 취득
             
       - layout: left
-        title:       
-        sub_title: Senior Network System Administrator
+        title: 무대예술전문인 기계 3급      
+        sub_title: 문화체육관광부
         caption: 22.12.21 - 23.07.10       
         description: | # this will include new lines to allow paragraphs
-            - 2016.07.15 취득
+            - 2015.09.02 취득
             
 
   - title: Education # Title for the section
@@ -151,6 +149,8 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       -이번에 열린 2023 World IT Show에 참가하거나 EV트렌드코리아 2023 전시회에 참가하며 시장의 트렌드와 동향을 분석하기도 했습니다.
+      -교육시간 이외에도 남아서 이해하지 못한 것에 대해 복습하고, 나의 것으로 만들기 위해 노력하였습니다.
+      -학사 학위를 준비 중이며, 2024월 2월에 학위 수여를 목표로 계획 중입니다.
 
 # Footer
 footer_show_references: true
