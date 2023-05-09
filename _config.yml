@@ -65,7 +65,7 @@ content:
         sub_title: |
           사용 기술 : <br/>
           Arduino, RFID, C, C++, Interrupt, Servo Motor, UART <br/>
-        caption: 2023.1.22 - 1.29
+        caption: 2023.01.22 - 01.29
         description: | # this will include new lines to allow paragraphs
           - Arduino RFID를 사용하여 마스터 키와 게스트 키를 설정 후 DB에 저장 된 키와 맞는 카드만 출입 허가하는 시스템 구현
           - Uart 통신을 사용하여 송신부와 수신부의 분리
@@ -76,7 +76,7 @@ content:
         sub_title: |
           사용 기술 : <br/>
           C, C++, JAVA, Python ROS, OpenCV, Turtlebot3, Jetson nano, Raspberry pi, Cmake
-        caption: 2023.2.20 - 진행 중
+        caption: 2023.02.20 - 진행 중
         description: | # this will include new lines to allow paragraphs
           - V2X를 사용하며, Turtlebot3 자율주행 시스템을 계획
           - OpenCV를 사용하여 차선 인식과, 표지판, 교통신호를 인식하여 Turtlebot3 자율주행
@@ -88,7 +88,7 @@ content:
         sub_title: |
           사용 기술 : <br/>
           C, C++, JAVA, TCP/IP, UART, Android, Firebase, Cortex-M4, Arduino, Linux, mariaDB, PHP, Intterupt <br/>
-        caption: 2023.4.2 - 4.10
+        caption: 2023.04.02 - 04.10
         description: | # this will include new lines to allow paragraphs
           - Linux에 서버를 만들어 Arduino, Cortex M4, Android 서로 통신시스템을 구현
           - 운전자의 상태를 Arduino 보드에 초음파 센서와 진동감지 센서등을 달아 현상태를 실시간으로 서버에 전송
@@ -97,17 +97,36 @@ content:
           - Androidstudio로 Android App으로 운전자의 상태를 화면에 띄우고, Firebase를 통하여 PushMessage로 받을 수 있는 시스템 구현
           - IAR, AndroidStudio, Visual Studio, Vim, Arduino IDE, Vim 등을 사용
 
-  - title: Experience # Title for the section
+  - title: Certificate # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: 대한상공회의소 서울기술교육센터
-        link: www.kccistc.net
-        # link_text: http://www.kccistc.net/
+        title: 정보처리산업기사       
+        sub_title: 한국산업인력공단        
+        description: | # this will include new lines to allow paragraphs
+            - 2023.06.09 취득
+
+      - layout: left
+        title: 리눅스마스터 2급       
         sub_title: Senior Network System Administrator
         caption: 22.12.21 - 23.07.10       
         description: | # this will include new lines to allow paragraphs
-            - MCU에 대해 자세하게 배우며 C, C++ 등 프로그래머 언어에 대해서 배우며, 배운 내용들을 기반으로 공모전이나, 팀프로젝트를 시행하여 결과물을 나올 수 있게 배웠습니다.
+            - 2016.07.15 취득
+            
+      - layout: left
+        title: 운전면허증 1종 보통       
+        sub_title: Senior Network System Administrator
+        caption: 22.12.21 - 23.07.10       
+        description: | # this will include new lines to allow paragraphs
+            - 2016.07.15 취득
+            
+      - layout: left
+        title:       
+        sub_title: Senior Network System Administrator
+        caption: 22.12.21 - 23.07.10       
+        description: | # this will include new lines to allow paragraphs
+            - 2016.07.15 취득
+            
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
@@ -131,14 +150,7 @@ content:
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-      - Rock climbing
-      - Gaming
-      - Knitting
-      - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
-
-      Look at this cool image  
-      ![Trees](/images/landscape-trees.jpg "Trees")
+      -이번에 열린 2023 World IT Show에 참가하거나 EV트렌드코리아 2023 전시회에 참가하며 시장의 트렌드와 동향을 분석하기도 했습니다.
 
 # Footer
 footer_show_references: true
