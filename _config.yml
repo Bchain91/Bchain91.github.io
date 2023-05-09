@@ -65,18 +65,18 @@ content:
         sub_title: |
           사용 기술 : <br/>
           Arduino, RFID, C, C++, Interrupt, Servo Motor, UART <br/>
-          2023.1.22 - 1.29
+        caption: 2023.1.22 - 1.29
         description: | # this will include new lines to allow paragraphs
           - Arduino RFID를 사용하여 마스터 키와 게스트 키를 설정 후 DB에 저장 된 키와 맞는 카드만 출입 허가하는 시스템 구현
           - Uart 통신을 사용하여 송신부와 수신부의 분리
           - Arduino IDE를 프로그램 사용
       
       - layout: left
-        title: V2X를 통한 자율주행시스템 <br/> (팀 프로젝트)
+        title: V2X를 통한 자율주행시스템 <br/> (2023 ICT 융합 프로젝트 공모전)
         sub_title: |
           사용 기술 : <br/>
-          C, C++, JAVA, ROS, OpenCV, Turtlebot3, Jetson nano, Raspberry pi, Cmake
-          2023.2.20 - 진행 중
+          C, C++, JAVA, Python ROS, OpenCV, Turtlebot3, Jetson nano, Raspberry pi, Cmake
+        caption: 2023.2.20 - 진행 중
         description: | # this will include new lines to allow paragraphs
           - V2X를 사용하며, Turtlebot3 자율주행 시스템을 계획
           - OpenCV를 사용하여 차선 인식과, 표지판, 교통신호를 인식하여 Turtlebot3 자율주행
@@ -88,7 +88,7 @@ content:
         sub_title: |
           사용 기술 : <br/>
           C, C++, JAVA, TCP/IP, UART, Android, Firebase, Cortex-M4, Arduino, Linux, mariaDB, PHP, Intterupt <br/>
-          2023.4.2 - 4.10
+        caption: 2023.4.2 - 4.10
         description: | # this will include new lines to allow paragraphs
           - Linux에 서버를 만들어 Arduino, Cortex M4, Android 서로 통신시스템을 구현
           - 운전자의 상태를 Arduino 보드에 초음파 센서와 진동감지 센서등을 달아 현상태를 실시간으로 서버에 전송
@@ -101,30 +101,33 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
-        link: boringcompany.com
-        # link_text: boringcompany.com
+        title: 대한상공회의소 서울기술교육센터
+        link: www.kccistc.net
+        # link_text: http://www.kccistc.net/
         sub_title: Senior Network System Administrator
-        caption: November 2017 - Present
-        quote: >
-          Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
+        caption: 22.12.21 - 23.07.10       
         description: | # this will include new lines to allow paragraphs
-            Every company needs its networks properly administered and The Boring Compay is no exception. Digging holes is hard and I play my part making sure the whole company stays connected. I lead a team of 5 people and enjoy driving the company to try new technologies.
+            - MCU에 대해 자세하게 배우며 C, C++ 등 프로그래머 언어에 대해서 배우며, 배운 내용들을 기반으로 공모전이나, 팀프로젝트를 시행하여 결과물을 나올 수 있게 배웠습니다.
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
-        caption: 2010 - 2013
-        sub_title: BSc Computer Science
-        quote: >
-          Established in 1636, Harvard is the oldest higher education institution in the United States, and is widely regarded in terms of its influence, reputation, and academic pedigree as a leading university in not just the US but also the world.
+        title: 대한상공회의소 서울기술교육센터
+        link: www.kccistc.net
+        # link_text: http://www.kccistc.net/
+        sub_title: 자율형 IOT기반 Reality AI융합 전문가 [일반인]
+        caption: 22.12.20 - 23.07.10       
         description: | # this will include new lines to allow paragraphs
-          During my time at Harvard I learnt most of my key skills that have I have taken through my career such as teamwork and working to tight deadlines. I thouroughly enjoyed my time as university and learnt a lot about a healthy work life balance.
-
-          I spent a lot of my free time as a committee member of the *Harvard Mountaineering Club* taking on roles such as *Trip Secretary* and *Vice-President*.
-
+            - MCU에 대해 자세하게 배우며 C, C++ 등 프로그래머 언어에 대해서 배우며, 배운 내용들을 기반으로 공모전이나, 팀프로젝트를 시행하여 결과물을 나올 수 있게 배웠습니다.
+            
+      - layout: left
+        title: 청강문화산업대
+        caption: 2010 - 2016
+        sub_title: 무대미술전공        
+        description: | # this will include new lines to allow paragraphs
+          - 비록 전공과 다른 전공이지만 배운 점으로 최소 40명이상의 팀 프로젝트에서 무대공연을 통해 얻은 의사소통 경험은 프로젝트 실행에도 큰 도움이 될 수 있다고 생각합니다.
+          
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
