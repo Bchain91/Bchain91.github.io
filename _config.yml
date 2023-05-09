@@ -6,10 +6,10 @@ favicon: images/favicon.ico
 version: 2
 
 # Personal info
-name: Bae Cha In
+name: 배차인
 title: Embedded Engineer
 email: baecain@gmail.com
-website: www.github.com/sproogen/resume-theme
+website: www.github.com/Bchain91
 
 # Dark Mode (true/false/never)
 darkmode: false
