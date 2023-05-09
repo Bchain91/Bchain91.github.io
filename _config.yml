@@ -64,34 +64,38 @@ content:
         title: 스마트 보안 도어락 <br/> (팀 프로젝트)
         sub_title: |
           사용 기술 : <br/>
-          Arduino, RFID, C, C++, Interrupt, Servo Motor, Uart <br/>
+          Arduino, RFID, C, C++, Interrupt, Servo Motor, UART <br/>
           2023.1.22 - 1.29
         description: | # this will include new lines to allow paragraphs
           - Arduino RFID를 사용하여 마스터 키와 게스트 키를 설정 후 DB에 저장 된 키와 맞는 카드만 출입 허가하는 시스템 구현
           - Uart 통신을 사용하여 송신부와 수신부의 분리
-          - Arduino IDE를 프로그램 사용하여 코딩
-          
+          - Arduino IDE를 프로그램 사용
+      
+      - layout: left
+        title: V2X를 통한 자율주행시스템 <br/> (팀 프로젝트)
+        sub_title: |
+          사용 기술 : <br/>
+          C, C++, JAVA, ROS, OpenCV, Turtlebot3, Jetson nano, Raspberry pi, Cmake
+          2023.2.20 - 진행 중
+        description: | # this will include new lines to allow paragraphs
+          - V2X를 사용하며, Turtlebot3 자율주행 시스템을 계획
+          - OpenCV를 사용하여 차선 인식과, 표지판, 교통신호를 인식하여 Turtlebot3 자율주행
+          - LiDAR센서를 이용하여 Map을 그리고, SLAM을 사용하여 Navigation 구현
+          - Vim, Visual Studio, Linux, Unbuntu, ROS등을 사용
+
       - layout: left
         title: 졸음운전방지시스템 <br/> (팀 프로젝트)
         sub_title: |
           사용 기술 : <br/>
-          C, C++, JAVA, TCP/IP, Android, Firbase, Cortex-M4, Arduino, Linux, mariaDB, PHP, 
+          C, C++, JAVA, TCP/IP, UART, Android, Firebase, Cortex-M4, Arduino, Linux, mariaDB, PHP, Intterupt <br/>
+          2023.4.2 - 4.10
         description: | # this will include new lines to allow paragraphs
-          - 프로젝트 후 수정 중...
-          - 포스팅 기능을 맡아서 개발 (포스트 정렬 및 조회, 세부사항 확인)
-          - UML 다이어그램 작성, 순서도 작성과 같은 설계단계부터 프로젝트를 진행
-          - UI는 크몽이라는 사이트를 클론 코딩해서 사용
-          
-      - layout: left
-        title: 자율주행시스템 <br/> (팀 프로젝트)
-        sub_title: |
-          사용 기술 : <br/>
-          C, C++, JAVA, 
-        description: | # this will include new lines to allow paragraphs
-          - 프로젝트 후 수정 중...
-          - 포스팅 기능을 맡아서 개발 (포스트 정렬 및 조회, 세부사항 확인)
-          - UML 다이어그램 작성, 순서도 작성과 같은 설계단계부터 프로젝트를 진행
-          - UI는 크몽이라는 사이트를 클론 코딩해서 사용
+          - Linux에 서버를 만들어 Arduino, Cortex M4, Android 서로 통신시스템을 구현
+          - 운전자의 상태를 Arduino 보드에 초음파 센서와 진동감지 센서등을 달아 현상태를 실시간으로 서버에 전송
+          - 서버에서 받은 데이터를 mariaDB에 저장하고, php로 운전자의 상태를 그래프로 표현
+          - Cortex M4 에 ServoMotor 제어와 DC Motor를 제어
+          - Androidstudio로 Android App으로 운전자의 상태를 화면에 띄우고, Firebase를 통하여 PushMessage로 받을 수 있는 시스템 구현
+          - IAR, AndroidStudio, Visual Studio, Vim, Arduino IDE, Vim 등을 사용
 
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
