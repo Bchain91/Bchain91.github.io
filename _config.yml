@@ -61,15 +61,15 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: BodeumMe <br/> (팀 프로젝트)
+        title: 스마트 보안 도어락 <br/> (팀 프로젝트)
         sub_title: |
           사용 기술 : <br/>
-          Spring boot, Oracle, Mybatis, Thymeleaf, HTML5/CSS3, JavaScript, Junit5, Gradle
+          Arduino, RFID, C, C++, Interrupt, Servo Motor, Uart <br/>
+          2023.1.22 - 1.29
         description: | # this will include new lines to allow paragraphs
-          - 프로젝트 후 수정 중...
-          - 포스팅 기능을 맡아서 개발 (포스트 정렬 및 조회, 세부사항 확인)
-          - UML 다이어그램 작성, 순서도 작성과 같은 설계단계부터 프로젝트를 진행
-          - UI는 크몽이라는 사이트를 클론 코딩해서 사용
+          - Arduino RFID를 사용하여 마스터 키와 게스트 키를 설정 후 DB에 저장 된 키와 맞는 카드만 출입 허가하는 시스템 구현
+          - Uart 통신을 사용하여 송신부와 수신부의 분리
+          - Arduino IDE를 프로그램 사용하여 코딩
           
       - layout: left
         title: BodeumMe <br/> (팀 프로젝트)
