@@ -48,10 +48,12 @@ github_username:  Bchain91
 # about_title: About Me
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Hi, my name's Brett and I'm a senior network system administrator. As well as administrating systems I also have experience making software and web apps. I have worked at a number of companies gaining teamwork and leadership skills.
+  저는 임베디드 개발자를 지망하는 배차인입니다. 코드를 통해 작동하는 원리에 대한 흥미와 호기심을 가지고 개발자를 준비하게 되었습니다. 주로 C언어를 중점적으로 공부하여, Cortex M4, Udoo, Raspberry pi, Jetson 등의 하드웨어를 다루었으며, openCV를 사용하여 Turtlebot3 자율주행 프로젝트를 수행한 경험이 있습니다.
 
-  I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
+저는 문제가 생기면 해결할 때까지 끝까지 책임감을 가지고 프로젝트를 진행합니다. 모르는 것에 대한 배우려는 의지도 매우 강하며, 어려운 문제가 발생하면 자신의 역량을 더욱 키우기 위해 노력합니다. 이를 위해 인터넷 검색, 책, 논문 등 다양한 자료를 활용하여 스스로 문제를 해결하는 능력을 키우기 위해 노력합니다.
 
+또한, 좋은 정보가 있으면 혼자만 알고 있지 않고 팀원들과 함께 공유하여 우리의 프로젝트에 더욱 도움이 되도록 노력합니다. 이러한 커뮤니케이션과 지식 공유를 통해 팀의 역량을 키우고 성공적인 프로젝트를 완수하는 것이 제 목표입니다.
+    
 content:
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
