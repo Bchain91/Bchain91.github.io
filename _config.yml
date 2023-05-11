@@ -126,7 +126,7 @@ content:
           - 서버에서 받은 데이터를 mariaDB에 저장하고, php로 운전자의 상태를 그래프로 표현
           - Cortex M4 에 ServoMotor 제어와 DC Motor를 제어
           - Androidstudio로 Android App으로 운전자의 상태를 화면에 띄우고, Firebase를 통하여 PushMessage로 받을 수 있는 시스템 구현
-          - IAR, AndroidStudio, Visual Studio, Vim, Arduino IDE, Vim 등을 사용
+          - IAR, AndroidStudio, Visual Studio, Vim, Arduino IDE 등을 사용
 
   - title: Education # Title for the section
     layout: list # Type of content section (list/text)
