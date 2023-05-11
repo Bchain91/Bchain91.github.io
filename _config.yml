@@ -118,7 +118,7 @@ content:
         title: 졸음운전방지시스템 <br/> (팀 프로젝트)
         sub_title: |
           사용 기술 : <br/>
-          C, C++, JAVA, TCP/IP, UART, Android, Firebase, Cortex-M4, Arduino, Linux, mariaDB, PHP, Intterupt <br/>
+          C, C++, JAVA, TCP/IP, UART, Android, Firebase, Cortex-M4, Arduino, Linux, mariaDB, PHP, Interrupt <br/>
         caption: 2023.04.02 - 04.10
         description: | # this will include new lines to allow paragraphs
           - Linux에 서버를 만들어 Arduino, Cortex M4, Android 서로 통신시스템을 구현
