@@ -108,9 +108,11 @@ content:
         caption: 2023.02.20 - 2023.03.31
         description: | # this will include new lines to allow paragraphs
           - V2X를 사용하며, Turtlebot3 자율주행 시스템을 계획
-          - OpenCV를 사용하여 차선 인식과, 표지판, 교통신호를 인식하여 Turtlebot3 자율주행
+          - OpenCV라이브러리를 사용하여 HSV영역에서의 차선을 찾아 Canny Edge를 검출, Hough Line을 구하여 차선 인식을 하고 Banishing Point를 이용하여 주행방향 결정
+          - ORB Detector를 사용하여 표지판을 인식하고 표지판에 따른 제어 메세지를 Main node에 송신
+          - Contour를 이용하여 차선차단기의 패턴을 찾고 Contour영역의 중심점을 선으로 이어 개폐를 판단
           - LiDAR센서를 이용하여 Map을 그리고, SLAM을 사용하여 Navigation을 사용
-          - Vim, Visual Studio, Linux, Unbuntu, ROS등을 사용
+          - Vim, Visual Studio, Linux, Ubuntu 16.04 & 18.04 , ROS Kinetic & Melodic 등을 사용
 
       - layout: left
         title: 졸음운전방지시스템 <br/> (팀 프로젝트)
