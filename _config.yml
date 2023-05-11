@@ -105,7 +105,7 @@ content:
         sub_title: |
           사용 기술 : <br/>
           C, C++, JAVA, Python ROS, OpenCV, Turtlebot3, Jetson nano, Raspberry pi, Cmake
-        caption: 2023.02.20 - 진행 중
+        caption: 2023.02.20 - 2023.03.31
         description: | # this will include new lines to allow paragraphs
           - V2X를 사용하며, Turtlebot3 자율주행 시스템을 계획
           - OpenCV를 사용하여 차선 인식과, 표지판, 교통신호를 인식하여 Turtlebot3 자율주행
